@@ -13,6 +13,7 @@ h1{
     font-size: 80px;
 }
 #myImage{
+Max width:100%;
     display: none;
      display: flex;
     justify-content: center; 
