@@ -15,8 +15,6 @@ h1{
 #myImage{
     max-width: 100%;
     display: none;
-    display: flex;
-    justify-content: center;
     margin: auto;
     margin-top: 40px;
 }
